@@ -1,4 +1,4 @@
-# STATS-FINAL-PROJECT
+# Zindi User Prediction Hackathon
 
 * Python Notebook For the  Stats Final Project
 
